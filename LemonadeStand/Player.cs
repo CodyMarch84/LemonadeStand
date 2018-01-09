@@ -13,6 +13,18 @@ namespace LemonadeStand
         Bank bank;
         Recipe recipe;
 
+        public Inventory Inventory
+        {
+            get { return inventory; }
+            set { inventory = value; }
+        }
+
+
+        public Recipe Recipe
+        {
+            get { return recipe; }
+            set { recipe = value; }
+        }
 
     }
 }
