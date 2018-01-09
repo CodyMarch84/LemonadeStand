@@ -1,0 +1,2 @@
+c:\users\gcode_000\desktop\DevCodeProjects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.exe.config
+C:\Users\gcode_000\Desktop\DevCode Projects\C#Stuff\C# Projects\LemonadeStand\LemonadeStand\bin\Debug\LemonadeStand.exe.config
